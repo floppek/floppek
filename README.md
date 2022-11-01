@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lemequs
-- 👀 I’m interested in lua
-- 🌱 I’m currently learning lua
+- 👀 I’m interested in html,js,css
+- 🌱 I’m currently learning html,js,css
 - 💞️ I’m looking to collaborate on not now
 
 
