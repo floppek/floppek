@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @lemequs
-- 👀 I’m interested in html,js,css
-- 🌱 I’m currently learning html,js,css
-- 💞️ I’m looking to collaborate on not now
+Cześć
+
+jestem floppek i narazis uczę się HTML,CSS,JS
+jestem właścicielem https://ogurek.pl
+
 
 
 <!---
