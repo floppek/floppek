@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **floppek@ilovecats.online**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
