@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm floppek!</h1>
 <h3 align="center">Frontend developer</h3>
 
-- 🔭 I’m currently working on [massimgs.host](https://massimgs.host)
+- 🔭 I’m currently working on [sperm.monster](https://sperm.monster)
 
 - 🌱 I’m currently learning **react**
 
